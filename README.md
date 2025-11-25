@@ -13,7 +13,7 @@
    
 ##  我的脚本仓库
 
-仓库链接：[点击查看](https://github.com/Lxi0707/Scripts)
+仓库链接：[点击查看](https://github.com/sxxsoo/Scripts)
    
 👇最后更新时间：2025.11.08
    
@@ -33,35 +33,35 @@ JD获取脚本请查看X分支，支持quantumultx loon surge食用
 👇最后更新时间：2025.4.3
 # index.html 预览：
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lxi0707/Lxi0707/blob/main/index.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lxi0707/Lxi0707/blob/main/index.png">
-  <img alt="自定义图片" src="https://github.com/Lxi0707/Lxi0707/blob/main/index.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sxxsoo/sxxsoo/blob/main/index.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sxxsoo/sxxsoo/blob/main/index.png">
+  <img alt="自定义图片" src="https://github.com/sxxsoo/sxxsoo/blob/main/index.png">
 </picture>
 
 
 # index1.txt 预览：
 （txt自行改html文件格式,1不要）
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lxi0707/Lxi0707/blob/main/index1.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lxi0707/Lxi0707/blob/main/index1.jpg">
-  <img alt="自定义图片" src="https://github.com/Lxi0707/Lxi0707/blob/main/index1.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sxxsoo/sxxsoo/blob/main/index1.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sxxsoo/sxxsoo/blob/main/index1.jpg">
+  <img alt="自定义图片" src="https://github.com/sxxsoo/sxxsoo/blob/main/index1.jpg">
 </picture>
 
 # index2.txt 预览：
 （贪吃蛇版）
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lxi0707/Lxi0707/blob/main/index2.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lxi0707/Lxi0707/blob/main/index2.png">
-  <img alt="自定义图片" src="https://github.com/Lxi0707/Lxi0707/blob/main/index2.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sxxsoo/sxxsoo/blob/main/index2.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sxxsoo/sxxsoo/blob/main/index2.png">
+  <img alt="自定义图片" src="https://github.com/sxxsoo/sxxsoo/blob/main/index2.png">
 </picture>
 
 
 # index3.txt 预览：
 （俄罗斯方块♦版）
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lxi0707/Lxi0707/blob/main/index3.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lxi0707/Lxi0707/blob/main/index3.png">
-  <img alt="自定义图片" src="https://github.com/Lxi0707/Lxi0707/blob/main/index3.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sxxsoo/sxxsoo/blob/main/index3.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sxxsoo/sxxsoo/blob/main/index3.png">
+  <img alt="自定义图片" src="https://github.com/sxxsoo/sxxsoo/blob/main/index3.png">
 </picture>
 
 
@@ -74,7 +74,7 @@ JD获取脚本请查看X分支，支持quantumultx loon surge食用
     <a 
 href="https://t.me/jijijiijj" target="_blank"><img src="https://img.shields.io/badge/Telegram-群组-rgb(49, 204, 121)" /></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=Lxi0707&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=sxxsoo&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->
     <!-- <a href="https://wakatime.com/@buptsdz"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg"/></a> -->
   </div>
